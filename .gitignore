@@ -31,7 +31,7 @@ docs/_build/
 profile_default/
 ipython_config.py
 # Environments
-# blog_project/settings/env.py
+blog_project/settings/env.py
 env/
 settings/env
 # Media and Static directories
